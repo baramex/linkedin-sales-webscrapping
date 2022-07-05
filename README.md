@@ -1,7 +1,7 @@
 # linkedin-sales-webscrapping
 Automatically retrieve profiles from a linkedin page and format them for a calc.
 
-## infos ##
+## Infos
 [![](https://tokei.rs/b1/github/baramex/linkedin-sales-webscrapping)]()<br/>
 [![](https://img.shields.io/github/languages/top/baramex/linkedin-sales-webscrapping?style=for-the-badge)]()
 
@@ -17,3 +17,6 @@ Automatically retrieve profiles from a linkedin page and format them for a calc.
 
 ## Download
 [![](https://img.shields.io/github/v/release/baramex/linkedin-sales-webscrapping?style=for-the-badge&label=last%20release)](https://github.com/baramex/linkedin-sales-webscrapping/releases/latest/)<br/>
+
+## Usage
+- Copy and paste the script into your console in the webpage
