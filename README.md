@@ -17,3 +17,8 @@ Automatically retrieve profiles from a linkedin page and format them for a calc.
 
 ## Usage
 - Copy and paste the script into your console in the webpage
+- Click on the button
+<img src="https://user-images.githubusercontent.com/47333747/177226834-fe9a16da-f5f8-434b-aca1-90316849bbbb.png" width=200>
+and paste it into your calc.<br/>
+
+| fullname ¦ job ¦ company ¦ date ¦ address |
